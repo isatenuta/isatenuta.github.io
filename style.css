@@ -1,7 +1,7 @@
 body {
     background-color: rgb(25, 34, 16);
     color: linen;
-    font-size: 140%;
+    font-size: 125%;
     line-height: 1.5;
 }
 
@@ -31,7 +31,7 @@ a {
 
 a:visited {
     color: rgb(59, 92, 228);
-    text-decoration: none;
+    text-decoration: italics;
 }
 
 img{
@@ -46,7 +46,7 @@ img{
 
 .textbox {
     width:70%;
-    color: white;
+    color: black;
     font-size: 110%;
     background:gray;
     padding: 4px;
