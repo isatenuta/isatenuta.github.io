@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(250, 216, 242);
+    background-color: rgb(255, 182, 193);
     color: linen;
     font-size: 175%;
     line-height: 1.7;
@@ -25,12 +25,12 @@ h2{
 }
 
 a {
-    color: rgb(69, 145, 63);
+    color: rgb(31, 28, 31);
     text-decoration: bold;
 }
 
 a:visited {
-    color: rgb(159, 192, 228);
+    color: rgb(255, 255, 255);
     text-decoration: italics;
 }
 
