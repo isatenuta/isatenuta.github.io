@@ -30,7 +30,7 @@ a {
 }
 
 a:visited {
-    color: rgb(59, 92, 228);
+    color: rgb(159, 192, 228);
     text-decoration: italics;
 }
 
@@ -48,7 +48,7 @@ img{
     width:70%;
     color: black;
     font-size: 110%;
-    background:gray;
+    background:gold;
     padding: 4px;
     border:1px solid white;
 }
@@ -62,7 +62,7 @@ img{
 }
 
 .redacted{
-    background-color: rgb(15, 6, 99);
+    background-color: rgb(125, 125, 125);
     color:  rgb(15, 6, 99);
 }
 
